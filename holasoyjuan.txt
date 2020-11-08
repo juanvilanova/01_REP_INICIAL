@@ -1,6 +1,6 @@
 Hola, Git!
 
-Soy Sergio.
+Soy Juan, ¿qué tal?
 
 Saludos.
 
